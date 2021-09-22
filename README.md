@@ -28,7 +28,7 @@ This is the first unsupervised abstract reasoning method on Raven's Progressive 
 
 
 ## Citation
-If our code is usefull for your research, please cite the following papers.
+If our code is useful for your research, please cite the following papers.
 
 ```
 @article{zhuo2021unsup,
