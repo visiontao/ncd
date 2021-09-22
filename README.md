@@ -1,8 +1,8 @@
 # Unsupervised Abstract Reasoning for Raven’s Problem Matrices
 
-This code is the implementation of our [TIP paper](https://arxiv.org/pdf/2109.10011.pdf)
+This code is the implementation of our [TIP paper].(https://arxiv.org/pdf/2109.10011.pdf)
 
-This is the first unsupervised abstract reasoning method on Raven's Progressive Matrices, it is an extention of our [arxiv preprint](https://arxiv.org/pdf/2002.01646.pdf)
+This is the first unsupervised abstract reasoning method on Raven's Progressive Matrices, it is an extention of our [arxiv preprint].(https://arxiv.org/pdf/2002.01646.pdf)
 
 ## Comparision with some supervised methods. 
 
