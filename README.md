@@ -23,7 +23,7 @@ This is the first unsupervised abstract reasoning method on Raven's Progressive 
 |-------------------|--------|----------------|---------------|
 | WReN (ICML2018)   |  62.6  |     64.4       |     17.2      |
 | DCNet (ICLR2021)  |  68.6  |     59.7       |     17.8      |
-| MXGNet (ICLR2020) |**89.6** | **70.85**     |     18.4      |
+| MXGNet (ICLR2020) |**89.6** | **84.6**      |     18.4      |
 |    NCD (Ours)     | 47.6   |     47.0       |   **24.9**    |
 
 
