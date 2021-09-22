@@ -4,9 +4,9 @@ This code is the implementation of our TIP [paper](https://arxiv.org/pdf/2109.10
 
 This is the first unsupervised abstract reasoning method on Raven's Progressive Matrices, it is an extention of our arxiv preprint[paper](https://arxiv.org/pdf/2002.01646.pdf)
 
-# Comparision with some supervised methods. 
+## Comparision with some supervised methods. 
 
-## Average testing accuracy on the RAVEN, I-RAVEN, and PGM dataset
+### Average testing accuracy on the RAVEN, I-RAVEN, and PGM dataset
 
 |      Method       |   Raven  |    I-RAVEN     |     PGM       |
 |-------------------|----------|----------------|---------------|
@@ -17,7 +17,7 @@ This is the first unsupervised abstract reasoning method on Raven's Progressive 
 
 
 
-## Generalization test results on PGM dataset
+### Generalization test results on PGM dataset
 
 |      Method       | neutral| interpolation  | extrapolation |
 |-------------------|--------|----------------|---------------|
@@ -27,7 +27,7 @@ This is the first unsupervised abstract reasoning method on Raven's Progressive 
 |    NCD (Ours)     | 47.6   |     47.0       |   **24.9**    |
 
 
-# Citation
+## Citation
 If our code is usefull for your research, please cite the following papers.
 
 ```
